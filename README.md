@@ -2,7 +2,7 @@
 USER GUIDE
 ------------------------------------------------
 
-* THIS PROGRAM REQUIRES GIT BASH, PYTHON, A TEXT EDITOR (Notepad, Notepad++, etc.), AND PYTHON FLASK TO WORK
+* THIS PROGRAM REQUIRES GIT BASH, PYTHON, A TEXT EDITOR (Notepad, Notepad++, etc.), AND PYTHON FLASK TO WORK. DOWNLOAD THE LATEST PHASE .ZIP (PHASE 3)
 
 1. Open the 'game_time_limiter.sh' file in the 'Scripts' folder in a text editor.
 2. Open Task Manager.
